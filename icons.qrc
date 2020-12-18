@@ -1,0 +1,22 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/abe.png</file>
+        <file>icons/contextHelp.png</file>
+        <file>icons/areaCheck.png</file>
+        <file>icons/trackLine.png</file>
+        <file>icons/fileEdit3D.png</file>
+        <file>icons/pfmExtract.png</file>
+        <file>icons/pfmFeature.png</file>
+        <file>icons/pfmGeotiff.png</file>
+        <file>icons/pfmLoad.png</file>
+        <file>icons/pfmView.png</file>
+        <file>icons/areaCheck_small.png</file>
+        <file>icons/trackLine_small.png</file>
+        <file>icons/fileEdit3D_small.png</file>
+        <file>icons/pfmExtract_small.png</file>
+        <file>icons/pfmFeature_small.png</file>
+        <file>icons/pfmGeotiff_small.png</file>
+        <file>icons/pfmLoad_small.png</file>
+        <file>icons/pfmView_small.png</file>
+ </qresource>
+ </RCC>
